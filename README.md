@@ -11,5 +11,5 @@
 * Ethereum: $30,000
 
 ### Tasks
-* Gather and clean three years' worth of market data
+* Gather and clean three years' worth of market data (4/23/2018 - 4/23/2021)
 * Create performance measures
