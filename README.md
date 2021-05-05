@@ -10,6 +10,7 @@
 * Google: $30,000
 * Disney: $30,000
 * JPM: $30,000
+* TDOC: $30,000
 
 ### Tasks
 * Gather and clean three years' worth of market data (4/23/2018 - 4/23/2021)
