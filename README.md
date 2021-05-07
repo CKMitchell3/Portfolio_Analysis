@@ -11,6 +11,7 @@
 * Disney: $30,000
 * JPM: $30,000
 * TDOC: $30,000
+* 
 
 ## Tasks
 * Gather and clean four years' worth of market data (5/16/2017 - 5/05/2021)
@@ -18,7 +19,7 @@
 
 ## QTNA
 ### Which performance measures do you want to use?
-1) Cumulative returns
+1) Cumulative portolio returns
 2) Annualized standard deviation
 3) Sharpe ratio
 4) Covariance
