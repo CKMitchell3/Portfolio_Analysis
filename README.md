@@ -13,5 +13,12 @@
 * TDOC: $30,000
 
 ### Tasks
-* Gather and clean three years' worth of market data (4/23/2018 - 4/23/2021)
+* Gather and clean four years' worth of market data (5/16/2017 - 5/05/2021)
 * Create performance measures
+
+## QTNA
+### Which performance measures do you want to use?
+1) Cumulative returns
+2) Annualized standard deviation
+3) Sharpe ratio
+4) Covariance
