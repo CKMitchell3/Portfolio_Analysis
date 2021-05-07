@@ -1,16 +1,16 @@
 # Personal_Project
 
 ## Goal
-* Create a portfolio consisting of some popular stocks (Square, Tesla, Apple, Google, Disney, JP Morgan) and compare their performance to the 10 Yr and 30 Yr Treasury Bond performances and the S&P 500 and Nasdaq performances. 
+* Create a portfolio consisting of some popular stocks (Square, Tesla, Apple, Facebook, Nvidia, Teladoc, Shopify, PayPal, Twitter and Zillow) and compare their performance to the 10 Yr and 30 Yr Treasury Bond performances and the S&P 500 and Nasdaq performances. 
 
 ## Portfolio
-* Square: $30,000
-* Tesla: $30,000
-* Apple: $30,000
-* Google: $30,000
-* Disney: $30,000
-* JPM: $30,000
-* TDOC: $30,000
+* Square: $10,000
+* Tesla: $10,000
+* Apple: $10,000
+* Google: $10,000
+* Disney: $10,000
+* JPM: $10,000
+* TDOC: $10,000
 * 
 
 ## Tasks
