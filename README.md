@@ -23,3 +23,5 @@
 2) Annualized standard deviation
 3) Sharpe ratio
 4) Covariance
+5) Moving Averages
+6) Rolling Betas
