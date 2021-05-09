@@ -7,11 +7,13 @@
 * Square: $10,000
 * Tesla: $10,000
 * Apple: $10,000
-* Google: $10,000
-* Disney: $10,000
-* JPM: $10,000
-* TDOC: $10,000
-* 
+* Facebook: $10,000
+* Teladoc: $10,000
+* PayPal: $10,000
+* Twitter: $10,000
+* Nvidia: $10,000
+* Shopify: $10,000
+* Zillow: $10,000
 
 ## Tasks
 * Gather and clean four years' worth of market data (5/16/2017 - 5/05/2021)
