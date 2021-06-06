@@ -19,7 +19,7 @@
 * Gather and clean five years' worth of market data (01/04/2016 - Present)
 * Utilize quantitative measures to analyze the performance of each individual stock in the portfolio
 * Utilize quantitative measures to analyze the performance of the total portfolio compared with the S&P 500, Nasdaq, Dow Jones, 10-Year T-Yield and 30-Year T-Yield
-* Measure the risk of each individual stock in the portfolio
+* Evaluate the risk of each individual stock in the portfolio
 
 ## QTNA
 ### Which performance measures do you want to use?
