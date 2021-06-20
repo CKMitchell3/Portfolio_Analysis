@@ -1,4 +1,4 @@
-# Personal_Project
+# Portfolio Analysis Project
 
 ## Goal
 * Create a portfolio consisting of some popular stocks (Apple, Facebook, Nvidia, PayPal, Shopify, Square, Teladoc, Tesla, Twitter, and Zillow) and compare their performance to the 10 Yr and 30 Yr Treasury Bond performances and the S&P 500, Dow Jones and Nasdaq performances. 
