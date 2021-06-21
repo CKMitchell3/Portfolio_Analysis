@@ -24,3 +24,7 @@
 ## QTNA
 ### Which performance measures do you want to use?
 1) 
+
+
+## Stock Portfolio Closing Prices
+![Stock Portfolio Closing Prices](Total_Portfolio/Images/ portfolio_closing_prices.png)
