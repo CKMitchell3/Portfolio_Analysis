@@ -27,4 +27,4 @@
 
 
 ## Stock Portfolio Closing Prices
-![Stock Portfolio Closing Prices](Total_Portfolio/Images/ portfolio_closing_prices.png)
+[Stock Portfolio Closing Prices](Total_Portfolio/Images/ portfolio_closing_prices.png)
