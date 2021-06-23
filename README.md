@@ -22,6 +22,7 @@ Create a portfolio with a long-term buy-and-hold strategy focus that can be upda
 * Tesla: $10,000
 * Twitter: $10,000
 * Zillow: $10,000
+* **Total: $100,000**
 
 ### Tasks
 * Gather and clean five years' worth of market data (01/04/2016 - Present)
