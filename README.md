@@ -39,4 +39,9 @@ Create a portfolio with a long-term buy-and-hold strategy focus that can be upda
 
 
 ### Stock Portfolio Closing Prices
+![Stock Portfolio Return Chart](Total_Portfolio/Images/Portfolio_Analysis.png)
+
 ![Stock Portfolio Closing Prices](Total_Portfolio/Images/portfolio_closing_prices.png)
+
+![Annualized Stock Portfolio Sharpe Ratios](Total_Portfolio/Images/annl_portfolio_sharpe_ratios.png)
+
