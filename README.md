@@ -1,5 +1,7 @@
 # Portfolio Analysis Project
 
+## Project Overview
+
 ### Goal
 Create a portfolio with a long-term buy-and-hold strategy focus that can be updated and analyzed daily. 
 * ***Note that the analysis in the ReadMe.md is based on portfolio data ending June 18, 2021.***
