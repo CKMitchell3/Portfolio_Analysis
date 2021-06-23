@@ -41,9 +41,7 @@ Create a portfolio with a long-term buy-and-hold strategy focus that can be upda
 
 
 ## Project Analysis
-
 ![Shopify](Total_Portfolio/Images/Shopify.jpg)
-
 Based on the results of the quantitative and risk analysis, Shopify has been the best performing stock of over the last five years and looks like it will continue this trend in the near future. Since 2016, Shopify has had a cumulative return of over 5,603% meaning our initial investment of $10,000 would have grown to just over $195,000. More importantly, though, 
 
 ![Stock Portfolio Return Chart](Total_Portfolio/Images/Portfolio_Analysis.png)
