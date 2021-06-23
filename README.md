@@ -6,6 +6,7 @@
 Create a portfolio with a long-term buy-and-hold strategy focus that can be updated and analyzed daily. 
 * ***Note that the analysis in the ReadMe.md is based on portfolio data ending June 18, 2021.***
 
+
 ### Initiative
 **Create a portfolio consisting of 10 popular growth stocks (Apple, Facebook, Nvidia, PayPal, Shopify, Square, Teladoc, Tesla, Twitter, and Zillow)**
 * Compare and analyze the historical performance of the holdings in the portfolio with each other
@@ -26,6 +27,7 @@ Create a portfolio with a long-term buy-and-hold strategy focus that can be upda
 * Zillow: $10,000
 * **Total: $100,000**
 
+
 ### Coding Tasks
 * Gather and clean five years' worth of market data (01/04/2016 - June 18, 2021)
 * Analyze the portfolio holdings' quantitative performance
@@ -38,7 +40,12 @@ Create a portfolio with a long-term buy-and-hold strategy focus that can be upda
 
 
 
-### Stock Portfolio Closing Prices
+## Project Analysis
+
+![Shopify](Total_Portfolio/Images/Shopify.png)
+
+Based on the results of the quantitative and risk analysis, Shopify has been the best performing stock of over the last five years and looks like it will continue this trend in the near future. Since 2016, Shopify has had a cumulative return of over 5,603% meaning our initial investment of $10,000 would have grown to just over $195,000. More importantly, though, 
+
 ![Stock Portfolio Return Chart](Total_Portfolio/Images/Portfolio_Analysis.png)
 
 ![Stock Portfolio Closing Prices](Total_Portfolio/Images/portfolio_closing_prices.png)
