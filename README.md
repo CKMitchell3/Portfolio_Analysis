@@ -24,7 +24,7 @@ Create a portfolio with a long-term buy-and-hold strategy focus that can be upda
 * Zillow: $10,000
 * **Total: $100,000**
 
-### Tasks
+### Coding Tasks
 * Gather and clean five years' worth of market data (01/04/2016 - June 18, 2021)
 * Analyze the portfolio holdings' quantitative performance
 * Analyze the portfolio's quantitative performance in relation to the S&P 500, Nasdaq, Dow 30 and 10-Yr and 30-Yr Treasury Yields
