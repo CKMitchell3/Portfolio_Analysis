@@ -45,3 +45,5 @@ Create a portfolio with a long-term buy-and-hold strategy focus that can be upda
 
 ![Annualized Stock Portfolio Sharpe Ratios](Total_Portfolio/Images/annl_portfolio_sharpe_ratios.png)
 
+![Annualized Stock Portfolio Volatility](Total_Portfolio/Images/annl_stock_volatility_plot.png)
+
