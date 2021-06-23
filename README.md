@@ -25,10 +25,13 @@ Create a portfolio with a long-term buy-and-hold strategy focus that can be upda
 * **Total: $100,000**
 
 ### Tasks
-* Gather and clean five years' worth of market data (01/04/2016 - Present)
-* Utilize quantitative measures to analyze the performance of each individual stock in the portfolio
-* Utilize quantitative measures to analyze the performance of the total portfolio compared with the S&P 500, Nasdaq, Dow Jones, 10-Year T-Yield and 30-Year T-Yield
-* Evaluate the risk of each individual stock in the portfolio
+* Gather and clean five years' worth of market data (01/04/2016 - June 18, 2021)
+* Analyze the portfolio holdings' quantitative performance
+* Analyze the portfolio's quantitative performance in relation to the S&P 500, Nasdaq, Dow 30 and 10-Yr and 30-Yr Treasury Yields
+* Determine the portfolio holdings' total cumulative performance
+* Analyze the portfolio holdings' risk and volatility
+
+
 
 
 ### Stock Portfolio Closing Prices
