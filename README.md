@@ -4,7 +4,7 @@
 Create a portfolio with a long-term buy-and-hold strategy focus that can be updated and analyzed daily. 
 * ***Note that the analysis in the ReadMe.md is based on portfolio data ending June 18, 2021.***
 
-### Inititative
+### Initiative
 **Create a portfolio consisting of 10 popular stocks (Apple, Facebook, Nvidia, PayPal, Shopify, Square, Teladoc, Tesla, Twitter, and Zillow)**
 * Compare and analyze the historical performance of the holdings in the portfolio with each other
 * Compare and analyze the portfolio's historical performance with that of the three major indexes
