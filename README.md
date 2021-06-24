@@ -42,7 +42,7 @@ Create a portfolio consisting of 10 popular growth stocks (Apple, Facebook, Nvid
 
 ## Project Evaluation
 
-#### Quantitative Analysis
+#### Stock Portfolio Return Chart
 ![Stock Portfolio Return Chart](Total_Portfolio/Images/Portfolio_Analysis.png)
 
 Based on our Portfolio Return Chart, the top three stock performers were Shopify by a comfortable margin, Nvidia and Square, three very exciting companies. Our worst three performers were Twitter, Facebook and Zillow by a very thin margin. When mentioning a stock's "performance", we are referring to its cumulative return throughout our five-year time period (01/02/2016 - 06/16/2021). Although cumulative return is a great measure of performance for our portfolio, context matters as well and certain caveats must be mentioned. For example, considering Apple to be one of the worst performing stocks in our portfolio, alongside Twitter, would be a mistake unless you mention that Apple's IPO took place in 1980 (creating plenty of millionaires in the process) while Twitter's took place in 2013. With this in mind, we will attempt to analyze our portfolio's quantitative performance as failry, yet still subjectively, as possible.
@@ -53,6 +53,7 @@ Following our top performers, Nvidia and Square have had very impressive perform
 
 ---
 
+#### Stock Portfolio Adjusted Closing Prices
 ![Stock Portfolio Closing Prices](Total_Portfolio/Images/portfolio_closing_prices.png)
 
 The Adjusted Closing Prices graph above provides a clear visual of our Portfolio Return Chart. The contrast between Shopify and Twitter is all but jaw-dropping, considering that both are extremely popular with millenials and even moreso with Gen Z. Although it may not be clearly visible on our graph, PayPal and Teladoc are two very intriguing (and promising) companies in our portfolio that have performed very well. Similar to Square, PayPal is a payments processing company that is expending its breadth of services and choosing to innovate, most notably with its fairly recent addition of bitcoin to its balance sheet. Although not as flashy or captivating as Square, PayPal is well positioned to continue to make strides in this next decade after doing so this last half-decade - PayPal has seen a 715% cumulative return since 2016 until now, without incurring offering much volatility or risk on top of that. 
@@ -61,7 +62,7 @@ Teladoc was another great performer in our portfolio, seeing cumulative returns 
 
 ---
 
-
+#### Annualized Stock Portfolio Volatility
 ![Annualized Stock Portfolio Volatility](Total_Portfolio/Images/annl_stock_volatility_plot.png)
 
 The chart above illustrates each portfolio holding's level of annualized volatility, or simply put its level of risk. The more risky a stock is, the higher you expect its returns - its the same concept as putting up with a hectic job only because it pays a high salary and offers great benefits (although this way of living is not recommended). The reason people invest in a company as risky as Tesla is because of the massive returns it can potentially see, just as people invest in Apple and Facebook because they are safe, reliable, and won't see 5%-plus drops in share price in a single day very often.
@@ -70,6 +71,7 @@ Unsurprising to anyone with access to the internet (and some basic market knowle
 
 ---
 
+#### Annualized Stock Portfolio Sharpe Ratios
 ![Annualized Stock Portfolio Sharpe Ratios](Total_Portfolio/Images/annl_portfolio_sharpe_ratios.png)
 
 ---
