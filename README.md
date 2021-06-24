@@ -40,7 +40,7 @@ Create a portfolio consisting of 10 popular growth stocks (Apple, Facebook, Nvid
 
 
 
-## Project Evaluation
+## Stock Portfolio Holdings Evaluation
 
 #### Stock Portfolio Return Chart
 ![Stock Portfolio Return Chart](Total_Portfolio/Images/Portfolio_Analysis.png)
