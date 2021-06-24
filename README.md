@@ -47,6 +47,8 @@ Create a portfolio consisting of 10 popular growth stocks (Apple, Facebook, Nvid
 
 Based on our Portfolio Return Chart, the top three stock performers were Shopify by a comfortable margin, Nvidia and Square, three very exciting companies. Our worst three performers were Twitter, Facebook and Zillow by a very thin margin. When mentioning a stock's "performance", we are referring to its cumulative return throughout our five-year time period (01/02/2016 - 06/16/2021). Although cumulative return is a great measure of performance for our portfolio, context matters as well and certain caveats must be mentioned. For example, considering Apple to be one of the worst performing stocks in our portfolio, alongside Twitter, would be a mistake unless you mention that Apple's IPO took place in 1980 (creating plenty of millionaires in the process) while Twitter's took place in 2013. With this in mind, we will attempt to analyze our portfolio's quantitative performance as failry, yet still subjectively, as possible.
 
+When comparing the top and worst performers in the portfolio, Twitter performing as porrly as it has is more suprising to me considering it's volatility (which we will see later). In the last five years, Twitter has returned a modest 169.73% - this may sound hyperbolic but when considering its peer group, its poor performance is disappointing.
+
 ---
 
 
