@@ -40,10 +40,14 @@ Create a portfolio with a long-term buy-and-hold strategy focus that can be upda
 
 
 
-## Project Analysis
+## Project Analysis Results
 ![Shopify](Total_Portfolio/Images/Shopify.png)
 
-Based on the results of the quantitative and risk analysis, Shopify has been the best performing stock of over the last five years and looks like it will continue this trend in the near future. Since 2016, Shopify has had a cumulative return of over 5,603% meaning our initial investment of $10,000 would have grown to just over $195,000. More importantly, though, 
+Based on the results of the quantitative and risk analysis, Shopify has been the best performing stock of over the last five years and looks like it will continue this trend in the near future. Since 2016, Shopify has had a cumulative return of over 5,603% meaning our initial investment of $10,000 would have grown to just over $195,000. More importantly, though, it is only offers relatively moderate risk when compared to the rest of the portfolio's holdings. 
+
+When observing the portffolio's Annualized Stock Volatility, Shopify ranks sixth out of 10 meaning that five other stocks in the portfolio offer more risk and volatility while simultaneously providing less of a return. This is also clearly illustrated when looking at the portfolio's Annualized Sharpe Ratios. Sharpe ratio measures a stock's performance while taking into account it's level of risk - for instance, although Tesla had a higher cumulative return than Apple (almost three times as much), Apple has a higher Sharpe Ratio because it offers a very small amount of risk whereas Tesla is **very** risky so it's returns seem less attractive. Shopify has the highest Sharpe ratio of the whole portfolio because although it's returns were astronomical, it wasn't very risky for a growth stock.  
+
+
 
 ![Stock Portfolio Return Chart](Total_Portfolio/Images/Portfolio_Analysis.png)
 
