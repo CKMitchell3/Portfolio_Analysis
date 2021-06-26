@@ -76,6 +76,8 @@ Unsurprising to anyone with access to the internet (and some basic market knowle
 
 The Annualized Stock Portfolio Sharpe Ratios chart listed above is one of the clearest indicators of stock performance for our portfolio. Sharpe ratio measures a stock's performance while taking into account it's level of risk - for instance, although Tesla had a higher cumulative return than Apple (almost three times as much), Apple has a higher Sharpe Ratio because it offers a very small amount of risk whereas Tesla is **very** risky so its returns seem less attractive. With this in mind, it seems obvious that Shopify would have the highest Sharpe ratio of all - it managed to have the greatest cumulative returns by far without incurring much volatility. Two things worth noting in the chart are PayPal and Square having nearly identical Sharpe ratios and the Nasdaq Index having the seventh highest Sharpe ratio. Since Square and PayPal are competitors in the market and both offer the same risk-to-reward ratio, choosing which to invest in between the two depend solely on an investor's risk tolerance. If an investor is risk averse, they are better served investing in PayPal; however, if an investor doesn't mind risk and is after large returns in the market, then Square would be the best choice for them.
 
+Investor-favorite Twitter came in last place on our Annualized Stock Portfolio Sharpe Ratios chart - behind the Dow Jones index, S&P 500 index and Nasdaq. Essentially, this can be interpreted as you as an investor would be better served investing in an index-tracking ETF than investing in Twitter because the gains aren't worth the risk. 
+
 ---
 
 #### Top Performer
