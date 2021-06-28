@@ -91,7 +91,9 @@ Based on the results of the quantitative and risk analysis, Shopify has been the
 ![Total Portfolio Cumulative Returns: 2016 - Present](Total_Portfolio/Images/cumulative_portfolio_growth_plot.png)
 
 
-The total portfolio, with evenly-allocated capital among the holdings, performed very well 
+The total portfolio, with evenly-allocated capital among the holdings, performed very well throughout the five-year time period despite the market crash in early 2020. Overall, the portfolio achieved cumulative returns of 1,372.57% and our $100,000 investment grew to a total of $1,372,572. 
+
+We are pleased with our returns, however, in a real-world scenario the portfolio would've reflected a much more sensible allocation strategy. Holdings like Twitter would not have been allowed the same amount of capital as holdings like Shopify, Square or Nvidia - or even Tesla for that matter. Considering that we employ a long-term focus with our portfolio and we primarily invest in the growth stocks, Shopify, Nvidia, Square, Teladoc and Tesla most likely would've accounted for at least 80% of our portfolio holdings. 
 
 ---
 
