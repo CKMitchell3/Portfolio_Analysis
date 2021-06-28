@@ -88,8 +88,15 @@ Based on the results of the quantitative and risk analysis, Shopify has been the
 ---
 
 ## Stock Portfolio-Index Evaluation
-![Shopify](Total_Portfolio/Images/cumulative_portfolio_growth_plot.png)
+![Total Portfolio Cumulative Returns: 2016 - Present](Total_Portfolio/Images/cumulative_portfolio_growth_plot.png)
 
 
 The total portfolio, with evenly-allocated capital among the holdings, performed very well 
 
+---
+
+
+![Total Portfolio Volatility](Total_Portfolio/Images/total_portfolio_volatility.png)
+
+
+![Total Portfolio Sharpe Ratios](Total_Portfolio/Images/total_portfolio_sr.png)
