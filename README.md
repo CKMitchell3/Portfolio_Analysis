@@ -11,7 +11,6 @@ Create a portfolio with a long term buy-and-hold strategy focus that can be upda
 Create a portfolio consisting of 10 popular growth stocks (Apple, Facebook, Nvidia, PayPal, Shopify, Square, Teladoc, Tesla, Twitter, and Zillow)
 * Compare and analyze the historical performance of the holdings in the portfolio with each other
 * Compare and analyze the portfolio's historical performance with that of the three major indexes
-* Compare the historical performance of the three major indexes with the 10-Year and 30-Year Treasury Yields
 
 
 #### Portfolio Holdings
@@ -31,7 +30,7 @@ Create a portfolio consisting of 10 popular growth stocks (Apple, Facebook, Nvid
 #### Coding Tasks
 * Gather and clean five years' worth of market data (01/04/2016 - 06/18/2021)
 * Analyze the portfolio holdings' quantitative performance
-* Analyze the portfolio's quantitative performance in relation to the S&P 500, Nasdaq, Dow 30 and 10-Yr and 30-Yr Treasury Yields
+* Analyze the portfolio's quantitative performance in relation to the S&P 500, Nasdaq and Dow 30
 * Determine the portfolio holdings' total cumulative performance
 * Analyze the portfolio holdings' risk and volatility
 
