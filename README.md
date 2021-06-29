@@ -113,8 +113,8 @@ While our portfolio managed to heavily outperform each of the major indexes, it 
 
 ---
 
-#### Total Portfolio Sharpe Ratios
-![Total Portfolio Sharpe Ratios](Total_Portfolio/Images/total_portfolio_sr.png)
+#### Annualized Total Portfolio Sharpe Ratios
+![Total Portfolio Sharpe Ratios](Total_Portfolio/Images/annl_portfolio_sr_plot.png)
 
 The graph above illustrates exactly how well our portfolio performed all-in-all. Even while facing more volatility than each of the three major indexes did, it still earned a better reward-to-variability ratio than they did. 
 
