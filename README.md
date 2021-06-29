@@ -85,7 +85,7 @@ Investor-favorite Twitter came in last place on our Annualized Stock Portfolio S
 
 Based on the results of the quantitative and risk analysis, Shopify has been the best performing stock in the portfolio over the last five years and looks like it will continue this trend for the immediate future. Since 2016, Shopify has had a cumulative return of over 5,700% meaning our initial investment of $10,000 would have grown to just over $195,000. More importantly, though, it is only offers relatively moderate risk when compared to the rest of the portfolio's holdings. When observing the portffolio's Annualized Stock Volatility, Shopify ranks sixth out of 10 meaning that five other stocks in the portfolio offer more risk and volatility while simultaneously providing less of a return. This is also clearly illustrated when looking at the portfolio's Annualized Sharpe Ratios.
 
----
+**---**
 
 ## Stock Portfolio-Index Evaluation
 #### Total Portfolio Cumulative Returns: 2016 - Present
@@ -102,7 +102,22 @@ The total portfolio, with evenly-allocated capital among the holdings, performed
 
 
 
-When compared to the major indexes, our portfolio heavily outperformed each by a wide margin. Being that the Nasdaq most heavily reflects our portfolio's focus, it was the most comparable index - although not by a particularly wide margin. The graph above shows the market performance of each of the three indexes (Dow Jones, S&P 500 & Nasdaq) and our portfolio - the Nasdaq posted a cumulative return of 286%, the S&P 500 posted a cumulative return of 207%, and the Dow posted a cumulative return of 194% over the total time period. 
+When compared to the major indexes, our portfolio heavily outperformed each by a wide margin. Being that the Nasdaq most heavily reflects our portfolio's focus, it was the most comparable index - although not by much at all. The graph above shows the market performance of each of the three indexes (Dow Jones, S&P 500 & Nasdaq) and our portfolio from the beginning of 2020 until now. Our portfolio saw most of its growth in this time period, returning over 900% cumulatively and zooming past each of the indexes. Overall, the Nasdaq posted a cumulative return of 286%, the S&P 500 posted a cumulative return of 207%, and the Dow posted a cumulative return of 194% over the total time period. 
+
+---
+
+#### Total Portfolio Volatility
+![Total Portfolio Volatility](Total_Portfolio/Images/total_portfolio_volatility.png)
+
+While our portfolio managed to heavily outperform each of the major indexes, it also managed to incur much more volatility than them as well. While the Dow, S&P and Nasdaq saw volatility levels of 0.012, 0.012 and 0.013, respectively, our portfolio saw a volatility level of 0.020. For reference, our portfolio faced slightly less volatility than Facebook did (0.021) throughout the same time period, while still achieving much higher returns.
+
+---
+
+#### Total Portfolio Sharpe Ratios
+![Total Portfolio Sharpe Ratios](Total_Portfolio/Images/total_portfolio_sr.png)
+
+The graph above illustrates exactly how well our portfolio performed all-in-all. Even while facing more volatility than each of the three major indexes did, it still earned a better reward-to-variability ratio than they did. 
+
 
 
 
@@ -110,11 +125,3 @@ We are pleased with our returns, however, in a real-world scenario the portfolio
 
 
 Considering that we employ a long-term focus with our portfolio and we primarily invest in the growth stocks, 
-
----
-
-#### Total Portfolio Volatility
-![Total Portfolio Volatility](Total_Portfolio/Images/total_portfolio_volatility.png)
-
-#### Total Portfolio Sharpe Ratios
-![Total Portfolio Sharpe Ratios](Total_Portfolio/Images/total_portfolio_sr.png)
