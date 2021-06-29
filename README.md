@@ -88,16 +88,21 @@ Based on the results of the quantitative and risk analysis, Shopify has been the
 ---
 
 ## Stock Portfolio-Index Evaluation
+#### Total Portfolio Cumulative Returns: 2016 - Present
 ![Total Portfolio Cumulative Returns: 2016 - Present](Total_Portfolio/Images/cumulative_portfolio_growth_plot.png)
 
 
-The total portfolio, with evenly-allocated capital among the holdings, performed very well throughout the five-year time period despite the market crash in early 2020 and the market laggards. Overall, the portfolio achieved cumulative returns of 1,372.57% and our $100,000 investment grew to a total of $1,372,572. W
 
+The total portfolio, with evenly-allocated capital among the holdings, performed very well throughout the five-year time period despite the market crash in early 2020 and the market laggards. Overall, the portfolio achieved cumulative returns of 1,372.57% and our $100,000 investment grew to a total of $1,372,572.
+
+
+
+#### Total Portfolio Cumulative Returns: 2020 - Present
 ![Total Portfolio Cumulative Returns: 2020 - Present](Total_Portfolio/Images/ytd_cumulative_index_returns_plot.png)
 
 
 
-hen compared to the major indexes, our portfolio heavily outperformed each by a wide margin. Being that the Nasdaq most heavily reflects our portfolio's focus, it was the most comparable index - although not by a particularly wide margin.
+When compared to the major indexes, our portfolio heavily outperformed each by a wide margin. Being that the Nasdaq most heavily reflects our portfolio's focus, it was the most comparable index - although not by a particularly wide margin. The graph above shows the market performance of each of the three indexes (Dow Jones, S&P 500 & Nasdaq) and our portfolio - the Nasdaq posted a cumulative return of 286%, the S&P 500 posted a cumulative return of 207%, and the Dow posted a cumulative return of 194% over the total time period. 
 
 
 
@@ -108,8 +113,8 @@ Considering that we employ a long-term focus with our portfolio and we primarily
 
 ---
 
-
+#### Total Portfolio Volatility
 ![Total Portfolio Volatility](Total_Portfolio/Images/total_portfolio_volatility.png)
 
-
+#### Total Portfolio Sharpe Ratios
 ![Total Portfolio Sharpe Ratios](Total_Portfolio/Images/total_portfolio_sr.png)
