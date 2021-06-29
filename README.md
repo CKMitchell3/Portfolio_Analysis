@@ -106,15 +106,15 @@ When compared to the major indexes, our portfolio heavily outperformed each by a
 
 ---
 
-#### Total Portfolio Volatility
-![Total Portfolio Volatility](Total_Portfolio/Images/total_portfolio_volatility.png)
+#### Annualized Total Portfolio Volatility
+![Annualized Total Portfolio Volatility](Total_Portfolio/Images/annl_total_portfolio_volatility.png)
 
 While our portfolio managed to heavily outperform each of the major indexes, it also managed to incur much more volatility than them as well. While the Dow, S&P and Nasdaq saw volatility levels of 0.012, 0.012 and 0.013, respectively, our portfolio saw a volatility level of 0.020. For reference, our portfolio faced slightly less volatility than Facebook did (0.021) throughout the same time period, while still achieving much higher returns.
 
 ---
 
 #### Annualized Total Portfolio Sharpe Ratios
-![Total Portfolio Sharpe Ratios](Total_Portfolio/Images/annl_portfolio_sr_plot.png)
+![Annualized Total Portfolio Sharpe Ratios](Total_Portfolio/Images/annl_portfolio_sr_plot.png)
 
 The graph above illustrates exactly how well our portfolio performed all-in-all. Even while facing more volatility than each of the three major indexes did, it still earned a better reward-to-variability ratio than they did. 
 
