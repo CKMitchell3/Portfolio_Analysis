@@ -109,19 +109,14 @@ When compared to the major indexes, our portfolio heavily outperformed each by a
 #### Annualized Total Portfolio Volatility
 ![Annualized Total Portfolio Volatility](Total_Portfolio/Images/annl_total_portfolio_volatility.png)
 
-While our portfolio managed to heavily outperform each of the major indexes, it also managed to incur much more volatility than them as well. While the Dow, S&P and Nasdaq saw volatility levels of 0.012, 0.012 and 0.013, respectively, our portfolio saw a volatility level of 0.020. For reference, our portfolio faced slightly less volatility than Facebook did (0.021) throughout the same time period, while still achieving much higher returns.
+While our portfolio managed to heavily outperform each of the major indexes, it also managed to incur much more volatility than them as well. While the Dow, S&P and Nasdaq saw volatility levels of 0.196, 0.188 and 0.213, respectively, our portfolio saw a volatility level of 0.318. For reference, our portfolio faced slightly less volatility than Facebook did (0.328) throughout the same time period, while still achieving much higher returns.
 
 ---
 
 #### Annualized Total Portfolio Sharpe Ratios
 ![Annualized Total Portfolio Sharpe Ratios](Total_Portfolio/Images/annl_portfolio_sr_plot.png)
 
-The graph above illustrates exactly how well our portfolio performed all-in-all. Even while facing more volatility than each of the three major indexes did, it still earned a better reward-to-variability ratio than they did. 
+The graph above illustrates exactly how well our portfolio performed all-in-all. Even while facing more volatility than each of the three major indexes did, it still earned a better reward-to-variability ratio than they did. The Sharpe Ratio for our portfolio was 1.67 while the Sharpe Ratios for the Dow, S&P and Nasdaq were 0.72, 0.80 and 1.01, respectively. This places our portfolio's Sharpe Ratio right behind Shopify's (1.69) meaning our portfolio's total reward far outweighed it's volatility.
 
 
-
-
-We are pleased with our returns, however, in a real-world scenario the portfolio would've reflected a much more sensible allocation. Holdings like Twitter or Facebook would not have been allowed the same amount of capital allocated as holdings like Shopify, Square or Nvidia - or even Tesla for that matter. 
-
-
-Considering that we employ a long-term focus with our portfolio and we primarily invest in the growth stocks, 
+While we are ultimately pleased with our returns, in a real-world scenario the portfolio would've reflected a much more sensible allocation. Holdings like Twitter or Facebook would not have been allowed the same amount of capital allocated as holdings like Shopify, Square or Nvidia - or even Tesla for that matter. Considering that we employ a long-term focus with our portfolio, we still believe in the untapped potential of each of our portfolio holdings and will see to it that we allocate our funds in order to achieve optimal returns.
