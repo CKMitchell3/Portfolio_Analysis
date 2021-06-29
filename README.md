@@ -84,7 +84,7 @@ Investor-favorite Twitter came in last place on our Annualized Stock Portfolio S
 
 Based on the results of the quantitative and risk analysis, Shopify has been the best performing stock in the portfolio over the last five years and looks like it will continue this trend for the immediate future. Since 2016, Shopify has had a cumulative return of over 5,700% meaning our initial investment of $10,000 would have grown to just over $195,000. More importantly, though, it is only offers relatively moderate risk when compared to the rest of the portfolio's holdings. When observing the portffolio's Annualized Stock Volatility, Shopify ranks sixth out of 10 meaning that five other stocks in the portfolio offer more risk and volatility while simultaneously providing less of a return. This is also clearly illustrated when looking at the portfolio's Annualized Sharpe Ratios.
 
-**---**
+---
 
 ## Stock Portfolio-Index Evaluation
 #### Total Portfolio Cumulative Returns: 2016 - Present
@@ -94,7 +94,7 @@ Based on the results of the quantitative and risk analysis, Shopify has been the
 
 The total portfolio, with evenly-allocated capital among the holdings, performed very well throughout the five-year time period despite the market crash in early 2020 and the market laggards. Overall, the portfolio achieved cumulative returns of 1,372.57% and our $100,000 investment grew to a total of $1,372,572.
 
-
+---
 
 #### Total Portfolio Cumulative Returns: 2020 - Present
 ![Total Portfolio Cumulative Returns: 2020 - Present](Total_Portfolio/Images/ytd_cumulative_index_returns_plot.png)
